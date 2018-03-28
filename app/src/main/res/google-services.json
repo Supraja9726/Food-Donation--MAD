@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "490754023678",
+    "firebase_url": "https://food-donation-62bee.firebaseio.com",
+    "project_id": "food-donation-62bee",
+    "storage_bucket": "food-donation-62bee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490754023678:android:c872aa6cf1e74745",
+        "android_client_info": {
+          "package_name": "com.example.supraja.fooddonate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490754023678-jv369b1vi36jhlhm54s13loe3qiheik2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.supraja.fooddonate",
+            "certificate_hash": "828cab3515dbca29cc65c9dca324ab9e41cbced0"
+          }
+        },
+        {
+          "client_id": "490754023678-hh2cssir63h61dd6eavhgqo82u07j31p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGRS_YxmLarBEY0RvMT-8Wc5d47Aa6jGo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490754023678-hh2cssir63h61dd6eavhgqo82u07j31p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
