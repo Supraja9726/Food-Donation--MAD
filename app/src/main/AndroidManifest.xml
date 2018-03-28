@@ -23,7 +23,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Retrieve"></activity>
+        <activity android:name=".Retrieve" />
+        <activity android:name=".Register" />
+        <activity android:name=".Logout" />
+        <activity android:name=".Detail"></activity>
     </application>
 
 </manifest>
